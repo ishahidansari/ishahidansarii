@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shahid Ansari (@ishahidansari)
+- 👋 Hi, I’m **Shahid Ansari** (@ishahidansari)
 - 👀 Passionate about **coding** and **problem solving**
 - 🌱 Currently learning **Web Development** and **Java**
 - 💞️ Looking to collaborate on **open source projects**
